@@ -1,0 +1,12 @@
+#map {
+  height: 75vh;
+  width: 100%;
+  
+}
+
+footer {
+  position: fixed;
+  min-width: 100vw;
+  bottom: 0;
+  left: 0;
+}
